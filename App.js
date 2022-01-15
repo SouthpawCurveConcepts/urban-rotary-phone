@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>AP5 Made changes</Text>
+      <Text>AP5 Made again</Text>
       <StatusBar style="auto" />
     </View>
   );
